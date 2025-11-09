@@ -89,5 +89,5 @@ Aşağıdaki ekran görüntüleri **Expo sürümünde çalışan demo**dan alın
 
 ### 2️⃣ Depoyu klonla
 ```bash
-git clone https://github.com/kkayali/AiGunlukAsistanim.git
+git clone https://github.com/kkayali/AiGunlukAsistanim
 cd AiGunlukAsistanim
